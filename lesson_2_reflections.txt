@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git is added. its needed if we want to track files in git
