@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 .git is added. its needed if we want to track files in git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area contains a select list of files from working directory to be commited to the repository
+It allows one to select which files or changes to track in git.  
