@@ -12,3 +12,8 @@ Use git commit to commit all files in staging into repository.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 1. To test out a new feature that really isn't part of original/master branch
 2. To provide different versioning of code.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch containing all changes in both branches. To illustrate only the changes will be included
+ n the final merged branch.
